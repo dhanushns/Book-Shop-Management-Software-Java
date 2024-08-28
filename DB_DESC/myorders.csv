@@ -1,0 +1,8 @@
+Field,Type,Null,Key,Default,Extra
+BOOKID,int,NO,PRI,NULL,
+BOOKNAME,varchar(50),NO,,NULL,
+QUANTITY,int,NO,,NULL,
+TOTAL_AMOUNT,double,NO,,NULL,
+ORDER_DATE,date,NO,,NULL,
+DELIVERY_DATE,date,NO,,NULL,
+DELIVERY_STATUS,tinyint(1),NO,,NULL,

@@ -1,0 +1,11 @@
+Field,Type,Null,Key,Default,Extra
+bookID,int,NO,PRI,NULL,auto_increment
+bookName,varchar(50),NO,,NULL,
+authorName,varchar(50),NO,,NULL,
+edition,int,NO,,NULL,
+description,varchar(250),NO,,NULL,
+ratings,float,NO,,NULL,
+priceAmount,double,NO,,NULL,
+Quantity,int,NO,,NULL,
+category,varchar(50),NO,,NULL,
+language,varchar(20),NO,,NULL,

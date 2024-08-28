@@ -1,0 +1,3 @@
+Field,Type,Null,Key,Default,Extra
+BOOKID,int,NO,,NULL,
+BOOKNAME,varchar(50),NO,,NULL,

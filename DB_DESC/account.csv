@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+ID,int,NO,UNI,NULL,auto_increment
+FIRSTNAME,varchar(30),NO,,NULL,
+LASTNAME,varchar(30),NO,,NULL,
+USERNAME,varchar(30),NO,UNI,NULL,
+EMAILID,varchar(50),NO,PRI,NULL,
+PASSWORD,varchar(18),NO,,NULL,

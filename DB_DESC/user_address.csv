@@ -1,0 +1,8 @@
+Field,Type,Null,Key,Default,Extra
+ID,int,NO,PRI,NULL,auto_increment
+USERNAME,varchar(30),NO,UNI,NULL,
+PHONE_NUMBER,double,YES,UNI,NULL,
+ADDRESS,varchar(100),YES,,NULL,
+DISTRICT,varchar(20),YES,,NULL,
+STATE,varchar(20),YES,,NULL,
+PINCODE,varchar(10),YES,,NULL,
